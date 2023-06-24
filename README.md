@@ -1,2 +1,2 @@
 # rust-lesson
-Short code examples
+Code examples
